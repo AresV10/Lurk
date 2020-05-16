@@ -1,5 +1,5 @@
 # Lurk
-An Endless sidescroller game under development
+An Endless sidescroller game under development<br>
 An initial project just to get the wheels rolling
 
 ---
